@@ -18,8 +18,10 @@ public class Main {
 
         System.out.println(ccc);
 
-        String name = "이응혁";
+        String nameK = "이응혁";
+        String nameE = "LeeEungHyeok";
 
-        System.out.println(name.length());
+        System.out.println(nameK.length());
+        System.out.println(nameE.length());
     }
 }
